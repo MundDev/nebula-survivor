@@ -11,3 +11,4 @@ fullscreen = 1
 
 [buildozer]
 log_level = 2
+android.accept_sdk_license = True
